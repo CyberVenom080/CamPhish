@@ -7,8 +7,8 @@ A GPS location capture feature has been added.
 # Features
 In this tool I added two automatic webpage templates for engaged target on webpage to get more picture of cam
 
-Festival Wishing
-Live YouTube TV
+- Festival Wishing
+- Live YouTube TV
 Online Meeting [Beta]
 GPS Location Tracking
 A cleanup script has been added to remove all unnecessary files and logs.
