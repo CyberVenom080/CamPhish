@@ -28,7 +28,7 @@ apt-get -y install php wget unzip
 ```
 # Installing (Kali Linux/Termux):
 ```
-git clone https://github.com/techchipnet/CamPhish
+https://github.com/CyberVenom080/CamPhish.git
 ```
 ```
 cd CamPhish
