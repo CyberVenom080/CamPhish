@@ -9,17 +9,17 @@ In this tool I added two automatic webpage templates for engaged target on webpa
 
 - Festival Wishing
 - Live YouTube TV
-Online Meeting [Beta]
-GPS Location Tracking
-A cleanup script has been added to remove all unnecessary files and logs.
+- Online Meeting [Beta]
+- GPS Location Tracking
+- A cleanup script has been added to remove all unnecessary files and logs.
 
-## This Tool Tested On :
-Kali Linux
-Termux
-MacOS
-Ubuntu
-Parrot Sec OS
-Windows (WSL)
+# This Tool Tested On :
+- Kali Linux
+- Termux
+- MacOS
+- Ubuntu
+- Parrot Sec OS
+- Windows (WSL)
 # Installing and requirements
 This tool require PHP for webserver, and wget for downloading dependencies. First run following command on your terminal
 
