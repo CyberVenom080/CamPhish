@@ -28,8 +28,14 @@ apt-get -y install php wget unzip
 ```
 # Installing (Kali Linux/Termux):
 ```git clone https://github.com/techchipnet/CamPhish```
+```
 cd CamPhish
+```
+```
 bash camphish.sh
+```
 # Clean logs & unnecessary files :
+```
 bash cleanup.sh
+```
 The cam files and saved location will also be removed.
